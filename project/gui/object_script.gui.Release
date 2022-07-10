@@ -1,0 +1,12 @@
+release/auth_window.o
+release/avtorizaciya.o
+release/capcha.o
+release/main.o
+release/registr.o
+release/settings.o
+release/zapros.o
+release/moc_auth_window.o
+release/moc_capcha.o
+release/moc_registr.o
+release/moc_settings.o
+release/moc_zapros.o

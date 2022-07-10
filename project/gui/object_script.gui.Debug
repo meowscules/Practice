@@ -1,0 +1,12 @@
+debug/auth_window.o
+debug/avtorizaciya.o
+debug/capcha.o
+debug/main.o
+debug/registr.o
+debug/settings.o
+debug/zapros.o
+debug/moc_auth_window.o
+debug/moc_capcha.o
+debug/moc_registr.o
+debug/moc_settings.o
+debug/moc_zapros.o
